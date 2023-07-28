@@ -1,6 +1,6 @@
 **Hey, I'm Krzysztof ✌️**
 
-I'm a IT Administrator from Poland
+I'm a IT Admin from Poland
 
 Currently i will support projects and infrastructure on the side of PL MSHP
 building customer-centered products, services and experiences.
